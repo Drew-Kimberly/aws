@@ -1,3 +1,6 @@
 [submodule "aws-demo-form"]
 	path = aws-demo-form
 	url = https://github.com/Drew-Kimberly/aws-demo-form
+[submodule "aws-udagram"]
+	path = aws-udagram
+	url = git@github.com:Drew-Kimberly/aws-udagram.git
