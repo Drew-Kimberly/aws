@@ -4,3 +4,6 @@
 [submodule "aws-udagram"]
 	path = aws-udagram
 	url = git@github.com:Drew-Kimberly/aws-udagram.git
+[submodule "aws-image-filter"]
+	path = aws-image-filter
+	url = git@github.com:Drew-Kimberly/aws-image-filter.git
