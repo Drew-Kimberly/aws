@@ -10,3 +10,6 @@
 [submodule "aws-udagram-frontend"]
 	path = aws-udagram-frontend
 	url = git@github.com:Drew-Kimberly/aws-udagram-frontend.git
+[submodule "aws-udagram-restapi"]
+	path = aws-udagram-restapi
+	url = git@github.com:Drew-Kimberly/aws-udagram-restapi.git
